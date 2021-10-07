@@ -1,0 +1,1 @@
+No se reconoce una carpeta vacía y por tanto no se podía hacer un commit sin que aparentemente, se haya realizado ningún cambio.
