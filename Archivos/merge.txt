@@ -1,0 +1,3 @@
+Ahora si podemos hacer commit con la carpeta archivos debido a que ahora si hay un archivo dentro, 
+en el que se puede controlar versión y modificaciones, al crearlo se pudo hacer un commit de el archivo
+pero registrando la carpeta como ruta para llegar al archivo.
