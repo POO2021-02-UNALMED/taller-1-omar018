@@ -1,2 +1,5 @@
 Mi nombre es Omar Enrique Chavez Fonseca, tengo 22 años y mis aspiraciones con la materia es dominar las buenas prácticas dentro
 de la programación orientada a objetos, aprender y aplicar los conceptos en los lenguajes Java y Python y así avanzar en cada uno de ellos.
+Ahora si podemos hacer commit con la carpeta archivos debido a que ahora si hay un archivo dentro, 
+en el que se puede controlar versión y modificaciones, al crearlo se pudo hacer un commit de el archivo
+pero registrando la carpeta como ruta para llegar al archivo.
