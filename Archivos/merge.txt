@@ -3,3 +3,6 @@ de la programación orientada a objetos, aprender y aplicar los conceptos en los
 Ahora si podemos hacer commit con la carpeta archivos debido a que ahora si hay un archivo dentro, 
 en el que se puede controlar versión y modificaciones, al crearlo se pudo hacer un commit de el archivo
 pero registrando la carpeta como ruta para llegar al archivo.
+Es importante tener en cuenta los conflictos que surgen al momento en que dos programadores modifican el mismo archivo al mismo tiempo,
+puede traer incoherencias e incosistencias al programa o funcionalidad en la que trabajamos, por esto es buena la comunicación y coordinación
+al momento de trabajar en cualquier proyecto.
